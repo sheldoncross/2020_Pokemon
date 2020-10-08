@@ -1,0 +1,2 @@
+sample.Skill@30a8d949, sample.Skill@7d858f59, sample.Skill@6a549041, sample.Skill@3182cb02, 20, 15, 5, 30, Fiji, water, 45
+sample.Skill@30a8d949, sample.Skill@7d858f59, sample.Skill@6a549041, sample.Skill@3182cb02, 20, 15, 5, 30, Fiji, water, 45
